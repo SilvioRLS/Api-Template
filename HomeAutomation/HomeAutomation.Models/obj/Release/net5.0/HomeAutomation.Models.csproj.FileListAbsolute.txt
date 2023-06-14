@@ -1,0 +1,34 @@
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation.Models\bin\Release\net5.0\HomeAutomation.Models.deps.json
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation.Models\bin\Release\net5.0\HomeAutomation.Models.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation.Models\bin\Release\net5.0\ref\HomeAutomation.Models.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation.Models\bin\Release\net5.0\HomeAutomation.Models.pdb
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation.Models\obj\Release\net5.0\HomeAutomation.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation.Models\obj\Release\net5.0\HomeAutomation.Models.AssemblyInfoInputs.cache
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation.Models\obj\Release\net5.0\HomeAutomation.Models.AssemblyInfo.cs
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation.Models\obj\Release\net5.0\HomeAutomation.Models.csproj.CoreCompileInputs.cache
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation.Models\obj\Release\net5.0\HomeAutomation.Models.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation.Models\obj\Release\net5.0\ref\HomeAutomation.Models.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation.Models\obj\Release\net5.0\HomeAutomation.Models.pdb
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation.Models\bin\Release\net5.0\HomeAutomation.Models.deps.json
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation.Models\bin\Release\net5.0\HomeAutomation.Models.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation.Models\bin\Release\net5.0\ref\HomeAutomation.Models.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation.Models\bin\Release\net5.0\HomeAutomation.Models.pdb
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation.Models\obj\Release\net5.0\HomeAutomation.Models.csproj.AssemblyReference.cache
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation.Models\obj\Release\net5.0\HomeAutomation.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation.Models\obj\Release\net5.0\HomeAutomation.Models.AssemblyInfoInputs.cache
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation.Models\obj\Release\net5.0\HomeAutomation.Models.AssemblyInfo.cs
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation.Models\obj\Release\net5.0\HomeAutomation.Models.csproj.CoreCompileInputs.cache
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation.Models\obj\Release\net5.0\HomeAutomation.Models.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation.Models\obj\Release\net5.0\ref\HomeAutomation.Models.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation.Models\obj\Release\net5.0\HomeAutomation.Models.pdb
+C:\Users\Silvio\Documents\GitHub\automation-api-\HomeAutomation\HomeAutomation.Models\bin\Release\net5.0\HomeAutomation.Models.deps.json
+C:\Users\Silvio\Documents\GitHub\automation-api-\HomeAutomation\HomeAutomation.Models\bin\Release\net5.0\HomeAutomation.Models.dll
+C:\Users\Silvio\Documents\GitHub\automation-api-\HomeAutomation\HomeAutomation.Models\bin\Release\net5.0\ref\HomeAutomation.Models.dll
+C:\Users\Silvio\Documents\GitHub\automation-api-\HomeAutomation\HomeAutomation.Models\bin\Release\net5.0\HomeAutomation.Models.pdb
+C:\Users\Silvio\Documents\GitHub\automation-api-\HomeAutomation\HomeAutomation.Models\obj\Release\net5.0\HomeAutomation.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silvio\Documents\GitHub\automation-api-\HomeAutomation\HomeAutomation.Models\obj\Release\net5.0\HomeAutomation.Models.AssemblyInfoInputs.cache
+C:\Users\Silvio\Documents\GitHub\automation-api-\HomeAutomation\HomeAutomation.Models\obj\Release\net5.0\HomeAutomation.Models.AssemblyInfo.cs
+C:\Users\Silvio\Documents\GitHub\automation-api-\HomeAutomation\HomeAutomation.Models\obj\Release\net5.0\HomeAutomation.Models.csproj.CoreCompileInputs.cache
+C:\Users\Silvio\Documents\GitHub\automation-api-\HomeAutomation\HomeAutomation.Models\obj\Release\net5.0\HomeAutomation.Models.dll
+C:\Users\Silvio\Documents\GitHub\automation-api-\HomeAutomation\HomeAutomation.Models\obj\Release\net5.0\ref\HomeAutomation.Models.dll
+C:\Users\Silvio\Documents\GitHub\automation-api-\HomeAutomation\HomeAutomation.Models\obj\Release\net5.0\HomeAutomation.Models.pdb

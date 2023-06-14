@@ -1,0 +1,80 @@
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation\bin\Debug\net5.0\appsettings.json
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation\bin\Debug\net5.0\HomeAutomation.exe
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation\bin\Debug\net5.0\HomeAutomation.deps.json
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation\bin\Debug\net5.0\HomeAutomation.runtimeconfig.json
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation\bin\Debug\net5.0\HomeAutomation.runtimeconfig.dev.json
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation\bin\Debug\net5.0\HomeAutomation.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation\bin\Debug\net5.0\ref\HomeAutomation.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation\bin\Debug\net5.0\HomeAutomation.pdb
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation\bin\Debug\net5.0\MQTTnet.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation\bin\Debug\net5.0\MQTTnet.Extensions.ManagedClient.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation\bin\Debug\net5.0\HomeAutomation.Facades.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation\bin\Debug\net5.0\HomeAutomation.Models.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation\bin\Debug\net5.0\HomeAutomation.Services.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation\bin\Debug\net5.0\HomeAutomation.Facades.pdb
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation\bin\Debug\net5.0\HomeAutomation.Models.pdb
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation\bin\Debug\net5.0\HomeAutomation.Services.pdb
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation\obj\Debug\net5.0\HomeAutomation.csproj.AssemblyReference.cache
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation\obj\Debug\net5.0\HomeAutomation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation\obj\Debug\net5.0\HomeAutomation.AssemblyInfoInputs.cache
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation\obj\Debug\net5.0\HomeAutomation.AssemblyInfo.cs
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation\obj\Debug\net5.0\HomeAutomation.csproj.CoreCompileInputs.cache
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation\obj\Debug\net5.0\HomeAutomation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation\obj\Debug\net5.0\HomeAutomation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation\obj\Debug\net5.0\staticwebassets\HomeAutomation.StaticWebAssets.Manifest.cache
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation\obj\Debug\net5.0\staticwebassets\HomeAutomation.StaticWebAssets.xml
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation\obj\Debug\net5.0\scopedcss\bundle\HomeAutomation.styles.css
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation\obj\Debug\net5.0\HomeAutomation.RazorTargetAssemblyInfo.cache
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation\obj\Debug\net5.0\HomeAutomation.csproj.CopyComplete
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation\obj\Debug\net5.0\HomeAutomation.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation\obj\Debug\net5.0\ref\HomeAutomation.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation\obj\Debug\net5.0\HomeAutomation.pdb
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation\obj\Debug\net5.0\HomeAutomation.genruntimeconfig.cache
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation\bin\Debug\net5.0\appsettings.json
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation\bin\Debug\net5.0\HomeAutomation.exe
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation\bin\Debug\net5.0\HomeAutomation.deps.json
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation\bin\Debug\net5.0\HomeAutomation.runtimeconfig.json
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation\bin\Debug\net5.0\HomeAutomation.runtimeconfig.dev.json
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation\bin\Debug\net5.0\HomeAutomation.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation\bin\Debug\net5.0\ref\HomeAutomation.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation\bin\Debug\net5.0\HomeAutomation.pdb
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation\bin\Debug\net5.0\MQTTnet.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation\bin\Debug\net5.0\MQTTnet.Extensions.ManagedClient.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation\bin\Debug\net5.0\HomeAutomation.Facades.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation\bin\Debug\net5.0\HomeAutomation.Models.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation\bin\Debug\net5.0\HomeAutomation.Services.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation\bin\Debug\net5.0\HomeAutomation.Facades.pdb
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation\bin\Debug\net5.0\HomeAutomation.Models.pdb
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation\bin\Debug\net5.0\HomeAutomation.Services.pdb
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation\obj\Debug\net5.0\HomeAutomation.csproj.AssemblyReference.cache
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation\obj\Debug\net5.0\HomeAutomation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation\obj\Debug\net5.0\HomeAutomation.AssemblyInfoInputs.cache
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation\obj\Debug\net5.0\HomeAutomation.AssemblyInfo.cs
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation\obj\Debug\net5.0\HomeAutomation.csproj.CoreCompileInputs.cache
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation\obj\Debug\net5.0\HomeAutomation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation\obj\Debug\net5.0\HomeAutomation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation\obj\Debug\net5.0\staticwebassets\HomeAutomation.StaticWebAssets.Manifest.cache
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation\obj\Debug\net5.0\staticwebassets\HomeAutomation.StaticWebAssets.xml
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation\obj\Debug\net5.0\scopedcss\bundle\HomeAutomation.styles.css
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation\obj\Debug\net5.0\HomeAutomation.RazorTargetAssemblyInfo.cache
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation\obj\Debug\net5.0\HomeAutomation.csproj.CopyComplete
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation\obj\Debug\net5.0\HomeAutomation.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation\obj\Debug\net5.0\ref\HomeAutomation.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation\obj\Debug\net5.0\HomeAutomation.pdb
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation\obj\Debug\net5.0\HomeAutomation.genruntimeconfig.cache

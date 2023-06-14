@@ -1,0 +1,51 @@
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation.Facades\bin\Release\net5.0\HomeAutomation.Facades.deps.json
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation.Facades\bin\Release\net5.0\HomeAutomation.Facades.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation.Facades\bin\Release\net5.0\ref\HomeAutomation.Facades.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation.Facades\bin\Release\net5.0\HomeAutomation.Facades.pdb
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation.Facades\bin\Release\net5.0\HomeAutomation.Models.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation.Facades\bin\Release\net5.0\HomeAutomation.Services.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation.Facades\bin\Release\net5.0\HomeAutomation.Models.pdb
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation.Facades\bin\Release\net5.0\HomeAutomation.Services.pdb
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation.Facades\obj\Release\net5.0\HomeAutomation.Facades.csproj.AssemblyReference.cache
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation.Facades\obj\Release\net5.0\HomeAutomation.Facades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation.Facades\obj\Release\net5.0\HomeAutomation.Facades.AssemblyInfoInputs.cache
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation.Facades\obj\Release\net5.0\HomeAutomation.Facades.AssemblyInfo.cs
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation.Facades\obj\Release\net5.0\HomeAutomation.Facades.csproj.CoreCompileInputs.cache
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation.Facades\obj\Release\net5.0\HomeAutomation.Facades.csproj.CopyComplete
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation.Facades\obj\Release\net5.0\HomeAutomation.Facades.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation.Facades\obj\Release\net5.0\ref\HomeAutomation.Facades.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi\HomeAutomation\HomeAutomation.Facades\obj\Release\net5.0\HomeAutomation.Facades.pdb
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation.Facades\bin\Release\net5.0\HomeAutomation.Facades.deps.json
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation.Facades\bin\Release\net5.0\HomeAutomation.Facades.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation.Facades\bin\Release\net5.0\ref\HomeAutomation.Facades.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation.Facades\bin\Release\net5.0\HomeAutomation.Facades.pdb
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation.Facades\bin\Release\net5.0\HomeAutomation.Models.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation.Facades\bin\Release\net5.0\HomeAutomation.Services.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation.Facades\bin\Release\net5.0\HomeAutomation.Models.pdb
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation.Facades\bin\Release\net5.0\HomeAutomation.Services.pdb
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation.Facades\obj\Release\net5.0\HomeAutomation.Facades.csproj.AssemblyReference.cache
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation.Facades\obj\Release\net5.0\HomeAutomation.Facades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation.Facades\obj\Release\net5.0\HomeAutomation.Facades.AssemblyInfoInputs.cache
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation.Facades\obj\Release\net5.0\HomeAutomation.Facades.AssemblyInfo.cs
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation.Facades\obj\Release\net5.0\HomeAutomation.Facades.csproj.CoreCompileInputs.cache
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation.Facades\obj\Release\net5.0\HomeAutomation.Facades.csproj.CopyComplete
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation.Facades\obj\Release\net5.0\HomeAutomation.Facades.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation.Facades\obj\Release\net5.0\ref\HomeAutomation.Facades.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation.Facades\obj\Release\net5.0\HomeAutomation.Facades.pdb
+C:\Users\Silvio\Documents\GitHub\automation-api-\HomeAutomation\HomeAutomation.Facades\bin\Release\net5.0\HomeAutomation.Facades.deps.json
+C:\Users\Silvio\Documents\GitHub\automation-api-\HomeAutomation\HomeAutomation.Facades\bin\Release\net5.0\HomeAutomation.Facades.dll
+C:\Users\Silvio\Documents\GitHub\automation-api-\HomeAutomation\HomeAutomation.Facades\bin\Release\net5.0\ref\HomeAutomation.Facades.dll
+C:\Users\Silvio\Documents\GitHub\automation-api-\HomeAutomation\HomeAutomation.Facades\bin\Release\net5.0\HomeAutomation.Facades.pdb
+C:\Users\Silvio\Documents\GitHub\automation-api-\HomeAutomation\HomeAutomation.Facades\bin\Release\net5.0\HomeAutomation.Models.dll
+C:\Users\Silvio\Documents\GitHub\automation-api-\HomeAutomation\HomeAutomation.Facades\bin\Release\net5.0\HomeAutomation.Services.dll
+C:\Users\Silvio\Documents\GitHub\automation-api-\HomeAutomation\HomeAutomation.Facades\bin\Release\net5.0\HomeAutomation.Models.pdb
+C:\Users\Silvio\Documents\GitHub\automation-api-\HomeAutomation\HomeAutomation.Facades\bin\Release\net5.0\HomeAutomation.Services.pdb
+C:\Users\Silvio\Documents\GitHub\automation-api-\HomeAutomation\HomeAutomation.Facades\obj\Release\net5.0\HomeAutomation.Facades.csproj.AssemblyReference.cache
+C:\Users\Silvio\Documents\GitHub\automation-api-\HomeAutomation\HomeAutomation.Facades\obj\Release\net5.0\HomeAutomation.Facades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silvio\Documents\GitHub\automation-api-\HomeAutomation\HomeAutomation.Facades\obj\Release\net5.0\HomeAutomation.Facades.AssemblyInfoInputs.cache
+C:\Users\Silvio\Documents\GitHub\automation-api-\HomeAutomation\HomeAutomation.Facades\obj\Release\net5.0\HomeAutomation.Facades.AssemblyInfo.cs
+C:\Users\Silvio\Documents\GitHub\automation-api-\HomeAutomation\HomeAutomation.Facades\obj\Release\net5.0\HomeAutomation.Facades.csproj.CoreCompileInputs.cache
+C:\Users\Silvio\Documents\GitHub\automation-api-\HomeAutomation\HomeAutomation.Facades\obj\Release\net5.0\HomeAutomation.Facades.csproj.CopyComplete
+C:\Users\Silvio\Documents\GitHub\automation-api-\HomeAutomation\HomeAutomation.Facades\obj\Release\net5.0\HomeAutomation.Facades.dll
+C:\Users\Silvio\Documents\GitHub\automation-api-\HomeAutomation\HomeAutomation.Facades\obj\Release\net5.0\ref\HomeAutomation.Facades.dll
+C:\Users\Silvio\Documents\GitHub\automation-api-\HomeAutomation\HomeAutomation.Facades\obj\Release\net5.0\HomeAutomation.Facades.pdb

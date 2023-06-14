@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>HomeAutomation.Services</id>
+    <version>1.0.0</version>
+    <authors>HomeAutomation.Services</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="HomeAutomation.Models" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="MQTTnet" version="3.1.2" exclude="Build,Analyzers" />
+        <dependency id="MQTTnet.Extensions.ManagedClient" version="3.1.2" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Mvc.Core" version="2.2.5" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation.Services\bin\Release\net5.0\win-x86\HomeAutomation.Services.dll" target="lib\net5.0\HomeAutomation.Services.dll" />
+  </files>
+</package>

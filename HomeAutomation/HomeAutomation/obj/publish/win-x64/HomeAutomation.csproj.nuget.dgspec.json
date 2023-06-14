@@ -1,0 +1,330 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Silvio\\Desktop\\HomeAutomationApi - Copia\\HomeAutomation\\HomeAutomation\\HomeAutomation.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Silvio\\Desktop\\HomeAutomationApi - Copia\\HomeAutomation\\HomeAutomation.Facades\\HomeAutomation.Facades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Silvio\\Desktop\\HomeAutomationApi - Copia\\HomeAutomation\\HomeAutomation.Facades\\HomeAutomation.Facades.csproj",
+        "projectName": "HomeAutomation.Facades",
+        "projectPath": "C:\\Users\\Silvio\\Desktop\\HomeAutomationApi - Copia\\HomeAutomation\\HomeAutomation.Facades\\HomeAutomation.Facades.csproj",
+        "packagesPath": "C:\\Users\\Silvio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Silvio\\Desktop\\HomeAutomationApi - Copia\\HomeAutomation\\HomeAutomation.Facades\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Silvio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Silvio\\Desktop\\HomeAutomationApi - Copia\\HomeAutomation\\HomeAutomation.Models\\HomeAutomation.Models.csproj": {
+                "projectPath": "C:\\Users\\Silvio\\Desktop\\HomeAutomationApi - Copia\\HomeAutomation\\HomeAutomation.Models\\HomeAutomation.Models.csproj"
+              },
+              "C:\\Users\\Silvio\\Desktop\\HomeAutomationApi - Copia\\HomeAutomation\\HomeAutomation.Services\\HomeAutomation.Services.csproj": {
+                "projectPath": "C:\\Users\\Silvio\\Desktop\\HomeAutomationApi - Copia\\HomeAutomation\\HomeAutomation.Services\\HomeAutomation.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MQTTnet.Extensions.ManagedClient": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Silvio\\Desktop\\HomeAutomationApi - Copia\\HomeAutomation\\HomeAutomation.Models\\HomeAutomation.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Silvio\\Desktop\\HomeAutomationApi - Copia\\HomeAutomation\\HomeAutomation.Models\\HomeAutomation.Models.csproj",
+        "projectName": "HomeAutomation.Models",
+        "projectPath": "C:\\Users\\Silvio\\Desktop\\HomeAutomationApi - Copia\\HomeAutomation\\HomeAutomation.Models\\HomeAutomation.Models.csproj",
+        "packagesPath": "C:\\Users\\Silvio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Silvio\\Desktop\\HomeAutomationApi - Copia\\HomeAutomation\\HomeAutomation.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Silvio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Silvio\\Desktop\\HomeAutomationApi - Copia\\HomeAutomation\\HomeAutomation.Services\\HomeAutomation.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Silvio\\Desktop\\HomeAutomationApi - Copia\\HomeAutomation\\HomeAutomation.Services\\HomeAutomation.Services.csproj",
+        "projectName": "HomeAutomation.Services",
+        "projectPath": "C:\\Users\\Silvio\\Desktop\\HomeAutomationApi - Copia\\HomeAutomation\\HomeAutomation.Services\\HomeAutomation.Services.csproj",
+        "packagesPath": "C:\\Users\\Silvio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Silvio\\Desktop\\HomeAutomationApi - Copia\\HomeAutomation\\HomeAutomation.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Silvio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Silvio\\Desktop\\HomeAutomationApi - Copia\\HomeAutomation\\HomeAutomation.Models\\HomeAutomation.Models.csproj": {
+                "projectPath": "C:\\Users\\Silvio\\Desktop\\HomeAutomationApi - Copia\\HomeAutomation\\HomeAutomation.Models\\HomeAutomation.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MQTTnet": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "MQTTnet.Extensions.ManagedClient": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Silvio\\Desktop\\HomeAutomationApi - Copia\\HomeAutomation\\HomeAutomation\\HomeAutomation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Silvio\\Desktop\\HomeAutomationApi - Copia\\HomeAutomation\\HomeAutomation\\HomeAutomation.csproj",
+        "projectName": "HomeAutomation",
+        "projectPath": "C:\\Users\\Silvio\\Desktop\\HomeAutomationApi - Copia\\HomeAutomation\\HomeAutomation\\HomeAutomation.csproj",
+        "packagesPath": "C:\\Users\\Silvio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Silvio\\Desktop\\HomeAutomationApi - Copia\\HomeAutomation\\HomeAutomation\\obj\\publish\\win-x64\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Silvio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Silvio\\Desktop\\HomeAutomationApi - Copia\\HomeAutomation\\HomeAutomation.Facades\\HomeAutomation.Facades.csproj": {
+                "projectPath": "C:\\Users\\Silvio\\Desktop\\HomeAutomationApi - Copia\\HomeAutomation\\HomeAutomation.Facades\\HomeAutomation.Facades.csproj"
+              },
+              "C:\\Users\\Silvio\\Desktop\\HomeAutomationApi - Copia\\HomeAutomation\\HomeAutomation.Models\\HomeAutomation.Models.csproj": {
+                "projectPath": "C:\\Users\\Silvio\\Desktop\\HomeAutomationApi - Copia\\HomeAutomation\\HomeAutomation.Models\\HomeAutomation.Models.csproj"
+              },
+              "C:\\Users\\Silvio\\Desktop\\HomeAutomationApi - Copia\\HomeAutomation\\HomeAutomation.Services\\HomeAutomation.Services.csproj": {
+                "projectPath": "C:\\Users\\Silvio\\Desktop\\HomeAutomationApi - Copia\\HomeAutomation\\HomeAutomation.Services\\HomeAutomation.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MQTTnet.Extensions.ManagedClient": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.14, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[5.0.7, 5.0.7]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[5.0.7, 5.0.7]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[5.0.7, 5.0.7]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

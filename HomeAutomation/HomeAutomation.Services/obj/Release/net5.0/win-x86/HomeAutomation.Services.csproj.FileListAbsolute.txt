@@ -1,0 +1,14 @@
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation.Services\bin\Release\net5.0\win-x86\HomeAutomation.Services.deps.json
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation.Services\bin\Release\net5.0\win-x86\HomeAutomation.Services.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation.Services\bin\Release\net5.0\win-x86\ref\HomeAutomation.Services.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation.Services\bin\Release\net5.0\win-x86\HomeAutomation.Services.pdb
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation.Services\bin\Release\net5.0\win-x86\HomeAutomation.Models.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation.Services\bin\Release\net5.0\win-x86\HomeAutomation.Models.pdb
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation.Services\obj\Release\net5.0\win-x86\HomeAutomation.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation.Services\obj\Release\net5.0\win-x86\HomeAutomation.Services.AssemblyInfoInputs.cache
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation.Services\obj\Release\net5.0\win-x86\HomeAutomation.Services.AssemblyInfo.cs
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation.Services\obj\Release\net5.0\win-x86\HomeAutomation.Services.csproj.CoreCompileInputs.cache
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation.Services\obj\Release\net5.0\win-x86\HomeAutomation.Services.csproj.CopyComplete
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation.Services\obj\Release\net5.0\win-x86\HomeAutomation.Services.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation.Services\obj\Release\net5.0\win-x86\ref\HomeAutomation.Services.dll
+C:\Users\Silvio\Desktop\HomeAutomationApi - Copia\HomeAutomation\HomeAutomation.Services\obj\Release\net5.0\win-x86\HomeAutomation.Services.pdb
